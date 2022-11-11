@@ -1,0 +1,4 @@
+- olá meu nome é Bernardo
+- estou interessado em apremnder novas linguagens
+- email para contato e patrocinios bernardo.kirian.medeiros@escola.pr.gov.br
+- eu quero aprender a linguagem computacional
